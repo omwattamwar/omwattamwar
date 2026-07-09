@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 Third-Year B.Tech Computer Science & Artificial Intelligence Student at **Vishwakarma Institute of Technology (VIT), Pune**
 
