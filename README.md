@@ -140,7 +140,7 @@ Power BI • Tableau • Cloudinary • Recharts
 
 # 🚀 Featured Projects
 
-## 🏛 CivicPulse — AI-Powered Online Complaint Management System
+## 🏛 CivicPulse — AI-Powered Civic Complaint Management System
 
 > AI-powered civic intelligence platform helping citizens report public issues while enabling authorities to classify, prioritize, and resolve complaints efficiently.
 
